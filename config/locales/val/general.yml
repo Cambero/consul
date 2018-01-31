@@ -231,7 +231,7 @@ val:
       moderation: Moderació
       valuation: Avaluació
       officing: Presidents de taula
-      more_info: Més informació
+      help: Help
       my_account_link: El meu compte
       my_activity_link: La meua activitat
       notifications: Notificacions
@@ -622,6 +622,7 @@ val:
       previous_slide: Imatge anterior
       next_slide: Imatge següent
     documentation: Documentació adicional
+    more_info: More information
   social:
     blog: "Blog de %{org}"
     facebook: "Facebook de %{org}"
