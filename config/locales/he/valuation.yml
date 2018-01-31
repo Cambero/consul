@@ -75,6 +75,7 @@ he:
         save: Save changes
       notice:
         valuate: "Dossier updated"
+      valuation_comments: Valuation comments
     spending_proposals:
       index:
         geozone_filter_all: All zones
