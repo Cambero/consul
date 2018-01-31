@@ -292,6 +292,10 @@ val:
             image:
               image_width: "Ha de tenir %{required_width}px d'ample"
               image_height: "Ha de tenir %{required_height}px d'alt"
+        comment:
+          attributes:
+            valuation:
+              cannot_comment_valuation: 'You cannot comment a valuation'
       messages:
         record_invalid: 'Error de validació: %{errors}'
         restrict_dependent_destroy:
