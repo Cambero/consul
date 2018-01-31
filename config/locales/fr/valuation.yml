@@ -73,6 +73,7 @@ fr:
         save: Enregistrer les changements
       notice:
         valuate: "Rapport mis-à-jour"
+      valuation_comments: Valuation comments
     spending_proposals:
       index:
         geozone_filter_all: Tous les districts
