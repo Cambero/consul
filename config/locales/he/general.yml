@@ -245,7 +245,7 @@ he:
       moderation: הנחיה
       valuation: הערכה
       officing: Polling officers
-      more_info: מידע נוסף
+      help: Help
       my_account_link: החשבון שלי
       my_activity_link: הפעילות שלי
       notifications: התראות
@@ -662,6 +662,7 @@ he:
       previous_slide: Previous Slide
       next_slide: Next Slide
     documentation: Additional documentation
+    more_info: More information
   social:
     blog: "בלוג"
     facebook: "פייסבוק"
